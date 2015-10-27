@@ -1,0 +1,373 @@
+fileFormatVersion: 2
+guid: ff6c99c205ecf1140b7a08afc11cde61
+timeCreated: 1445942086
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: _agrindine
+    100002: bodyback
+    100004: Joint
+    100006: Joint_1
+    100008: Joint_1_2
+    100010: Joint_1_3
+    100012: Joint_1_4
+    100014: Joint_1_5
+    100016: Joint_2
+    100018: Joint_2_2
+    100020: Joint_2_3
+    100022: Joint_2_4
+    100024: Joint_2_5
+    100026: Joint_2_6
+    100028: Joint_2_7
+    100030: Joint_3
+    100032: Joint_3_2
+    100034: Joint_3_3
+    100036: Joint_3_4
+    100038: Joint_3_5
+    100040: Joint_3_6
+    100042: Joint_3_7
+    100044: Joint_3_8
+    100046: Joint_3_9
+    100048: Joint_4
+    100050: Joint_4_2
+    100052: Joint_4_3
+    100054: Joint_4_4
+    100056: Joint_4_5
+    100058: Joint_4_6
+    100060: Joint_4_7
+    100062: Joint_4_8
+    100064: Joint_5
+    100066: Joint_5_2
+    100068: Joint_5_3
+    100070: Joint_5_4
+    100072: Joint_5_5
+    100074: Joint_5_6
+    100076: Joint_5_7
+    100078: Joint_6
+    100080: Joint_6_2
+    100082: Joint_6_3
+    100084: Joint_7
+    100086: Joint_8
+    100088: koja
+    100090: koja_2
+    100092: koja_3
+    100094: koja_4
+    100096: koja_5
+    100098: pagrindine
+    100100: pagrindine_2
+    100102: Root
+    100104: Root_10
+    100106: Root_11
+    100108: Root_2
+    100110: Root_3
+    100112: Root_4
+    100114: Root_5
+    100116: Root_6
+    100118: Root_7
+    100120: Root_8
+    100122: Root_9
+    100124: //RootNode
+    100126: Skin
+    100128: tail
+    100130: znyple1
+    100132: znyple2
+    100134: znyple2_1
+    400000: _agrindine
+    400002: bodyback
+    400004: Joint
+    400006: Joint_1
+    400008: Joint_1_2
+    400010: Joint_1_3
+    400012: Joint_1_4
+    400014: Joint_1_5
+    400016: Joint_2
+    400018: Joint_2_2
+    400020: Joint_2_3
+    400022: Joint_2_4
+    400024: Joint_2_5
+    400026: Joint_2_6
+    400028: Joint_2_7
+    400030: Joint_3
+    400032: Joint_3_2
+    400034: Joint_3_3
+    400036: Joint_3_4
+    400038: Joint_3_5
+    400040: Joint_3_6
+    400042: Joint_3_7
+    400044: Joint_3_8
+    400046: Joint_3_9
+    400048: Joint_4
+    400050: Joint_4_2
+    400052: Joint_4_3
+    400054: Joint_4_4
+    400056: Joint_4_5
+    400058: Joint_4_6
+    400060: Joint_4_7
+    400062: Joint_4_8
+    400064: Joint_5
+    400066: Joint_5_2
+    400068: Joint_5_3
+    400070: Joint_5_4
+    400072: Joint_5_5
+    400074: Joint_5_6
+    400076: Joint_5_7
+    400078: Joint_6
+    400080: Joint_6_2
+    400082: Joint_6_3
+    400084: Joint_7
+    400086: Joint_8
+    400088: koja
+    400090: koja_2
+    400092: koja_3
+    400094: koja_4
+    400096: koja_5
+    400098: pagrindine
+    400100: pagrindine_2
+    400102: Root
+    400104: Root_10
+    400106: Root_11
+    400108: Root_2
+    400110: Root_3
+    400112: Root_4
+    400114: Root_5
+    400116: Root_6
+    400118: Root_7
+    400120: Root_8
+    400122: Root_9
+    400124: //RootNode
+    400126: Skin
+    400128: tail
+    400130: znyple1
+    400132: znyple2
+    400134: znyple2_1
+    4300000: znyple2_1
+    7400000: walking
+    9500000: //RootNode
+    13700000: znyple2_1
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: walking
+      takeName: C4D Animation Take
+      firstFrame: 0
+      lastFrame: 20
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Joint_1
+        weight: 1
+      - path: Joint_1/bodyback
+        weight: 1
+      - path: Joint_1/bodyback/koja_5
+        weight: 1
+      - path: Joint_1/bodyback/koja_5/Joint_3_8
+        weight: 1
+      - path: Joint_1/bodyback/koja_5/Joint_3_8/Root_11
+        weight: 1
+      - path: Joint_1/bodyback/koja_5/Joint_3_8/Root_11/Joint_3_9
+        weight: 1
+      - path: Joint_1/bodyback/koja_5/Joint_3_8/Root_11/Joint_3_9/Joint_4_8
+        weight: 1
+      - path: Joint_1/bodyback/Root
+        weight: 1
+      - path: Joint_1/bodyback/Root/Joint_1_4
+        weight: 1
+      - path: Joint_1/bodyback/Root/Joint_1_4/Joint_2_4
+        weight: 1
+      - path: Joint_1/bodyback/Root/Joint_1_4/Joint_2_4/koja_3
+        weight: 1
+      - path: Joint_1/bodyback/Root/Joint_1_4/Joint_2_4/koja_3/Joint_2_6
+        weight: 1
+      - path: Joint_1/bodyback/Root/Joint_1_4/Joint_2_4/koja_3/Joint_2_6/pagrindine_2
+        weight: 1
+      - path: Joint_1/bodyback/Root/Joint_1_4/Joint_2_4/koja_3/Joint_2_6/pagrindine_2/Joint_4_3
+        weight: 1
+      - path: Joint_1/bodyback/Root/Joint_1_4/Joint_2_4/koja_3/Joint_2_6/pagrindine_2/Joint_4_3/Root_7
+        weight: 1
+      - path: Joint_1/bodyback/Root/Joint_1_4/Joint_2_4/koja_3/Joint_2_6/pagrindine_2/Joint_4_3/Root_7/Joint_4_4
+        weight: 1
+      - path: Joint_1/bodyback/Root/Joint_1_4/Joint_2_4/koja_3/Joint_2_6/pagrindine_2/Joint_4_3/Root_7/Joint_4_4/Joint_5_6
+        weight: 1
+      - path: Joint_1/bodyback/Root/Joint_1_4/Joint_2_4/koja_4
+        weight: 1
+      - path: Joint_1/bodyback/Root/Joint_1_4/Joint_2_4/koja_4/Joint_4_5
+        weight: 1
+      - path: Joint_1/bodyback/Root/Joint_1_4/Joint_2_4/koja_4/Joint_4_5/Root_8
+        weight: 1
+      - path: Joint_1/bodyback/Root/Joint_1_4/Joint_2_4/koja_4/Joint_4_5/Root_8/Joint_4_6
+        weight: 1
+      - path: Joint_1/bodyback/Root/Joint_1_4/Joint_2_4/koja_4/Joint_4_5/Root_8/Joint_4_6/Joint_5_7
+        weight: 1
+      - path: Joint_1/bodyback/Root/Joint_1_4/Joint_2_4/Root_2
+        weight: 1
+      - path: Joint_1/bodyback/Root/Joint_1_4/Joint_2_4/Root_2/Joint_2_5
+        weight: 1
+      - path: Joint_1/bodyback/Root/Joint_1_4/Joint_2_4/Root_2/Joint_2_5/Joint_3_3
+        weight: 1
+      - path: Joint_1/bodyback/Root/Joint_1_4/Joint_2_4/Root_2/Joint_2_5/Joint_3_3/koja
+        weight: 1
+      - path: Joint_1/bodyback/Root/Joint_1_4/Joint_2_4/Root_2/Joint_2_5/Joint_3_3/koja/Joint_3_5
+        weight: 1
+      - path: Joint_1/bodyback/Root/Joint_1_4/Joint_2_4/Root_2/Joint_2_5/Joint_3_3/koja/Joint_3_5/_agrindine
+        weight: 1
+      - path: Joint_1/bodyback/Root/Joint_1_4/Joint_2_4/Root_2/Joint_2_5/Joint_3_3/koja/Joint_3_5/_agrindine/Joint_5_2
+        weight: 1
+      - path: Joint_1/bodyback/Root/Joint_1_4/Joint_2_4/Root_2/Joint_2_5/Joint_3_3/koja/Joint_3_5/_agrindine/Joint_5_2/Root_4
+        weight: 1
+      - path: Joint_1/bodyback/Root/Joint_1_4/Joint_2_4/Root_2/Joint_2_5/Joint_3_3/koja/Joint_3_5/_agrindine/Joint_5_2/Root_4/Joint_5_3
+        weight: 1
+      - path: Joint_1/bodyback/Root/Joint_1_4/Joint_2_4/Root_2/Joint_2_5/Joint_3_3/koja/Joint_3_5/_agrindine/Joint_5_2/Root_4/Joint_5_3/Joint_6_2
+        weight: 1
+      - path: Joint_1/bodyback/Root/Joint_1_4/Joint_2_4/Root_2/Joint_2_5/Joint_3_3/koja_2
+        weight: 1
+      - path: Joint_1/bodyback/Root/Joint_1_4/Joint_2_4/Root_2/Joint_2_5/Joint_3_3/koja_2/Root_5
+        weight: 1
+      - path: Joint_1/bodyback/Root/Joint_1_4/Joint_2_4/Root_2/Joint_2_5/Joint_3_3/koja_2/Root_5/pagrindine
+        weight: 1
+      - path: Joint_1/bodyback/Root/Joint_1_4/Joint_2_4/Root_2/Joint_2_5/Joint_3_3/koja_2/Root_5/pagrindine/Joint_5_4
+        weight: 1
+      - path: Joint_1/bodyback/Root/Joint_1_4/Joint_2_4/Root_2/Joint_2_5/Joint_3_3/koja_2/Root_5/pagrindine/Joint_5_4/Root_6
+        weight: 1
+      - path: Joint_1/bodyback/Root/Joint_1_4/Joint_2_4/Root_2/Joint_2_5/Joint_3_3/koja_2/Root_5/pagrindine/Joint_5_4/Root_6/Joint_5_5
+        weight: 1
+      - path: Joint_1/bodyback/Root/Joint_1_4/Joint_2_4/Root_2/Joint_2_5/Joint_3_3/koja_2/Root_5/pagrindine/Joint_5_4/Root_6/Joint_5_5/Joint_6_3
+        weight: 1
+      - path: Joint_1/bodyback/Root/Joint_1_4/Joint_2_4/Root_2/Joint_2_5/Joint_3_3/tail
+        weight: 1
+      - path: Joint_1/bodyback/Root/Joint_1_4/Joint_2_4/Root_2/Joint_2_5/Joint_3_3/tail/Joint_3_4
+        weight: 1
+      - path: Joint_1/bodyback/Root/Joint_1_4/Joint_2_4/Root_2/Joint_2_5/Joint_3_3/tail/Joint_3_4/Joint_4
+        weight: 1
+      - path: Joint_1/bodyback/Root/Joint_1_4/Joint_2_4/Root_2/Joint_2_5/Joint_3_3/tail/Joint_3_4/Joint_4/Root_3
+        weight: 1
+      - path: Joint_1/bodyback/Root/Joint_1_4/Joint_2_4/Root_2/Joint_2_5/Joint_3_3/tail/Joint_3_4/Joint_4/Root_3/Joint_4_2
+        weight: 1
+      - path: Joint_1/bodyback/Root/Joint_1_4/Joint_2_4/Root_2/Joint_2_5/Joint_3_3/tail/Joint_3_4/Joint_4/Root_3/Joint_4_2/Joint_5
+        weight: 1
+      - path: Joint_1/bodyback/Root/Joint_1_4/Joint_2_4/Root_2/Joint_2_5/Joint_3_3/tail/Joint_3_4/Joint_4/Root_3/Joint_4_2/Joint_5/Joint_6
+        weight: 1
+      - path: Joint_1/bodyback/Root/Joint_1_4/Joint_2_4/Root_2/Joint_2_5/Joint_3_3/tail/Joint_3_4/Joint_4/Root_3/Joint_4_2/Joint_5/Joint_6/Joint_7
+        weight: 1
+      - path: Joint_1/bodyback/Root/Joint_1_4/Joint_2_4/Root_2/Joint_2_5/Joint_3_3/tail/Joint_3_4/Joint_4/Root_3/Joint_4_2/Joint_5/Joint_6/Joint_7/Joint_8
+        weight: 1
+      - path: Joint_1/bodyback/Root_9
+        weight: 1
+      - path: Joint_1/bodyback/Root_9/Joint_1_5
+        weight: 1
+      - path: Joint_1/bodyback/Root_9/Joint_1_5/Joint_2_7
+        weight: 1
+      - path: Joint_1/bodyback/Root_9/Joint_1_5/Joint_2_7/Joint_3_6
+        weight: 1
+      - path: Joint_1/bodyback/Root_9/Joint_1_5/Joint_2_7/Joint_3_6/Root_10
+        weight: 1
+      - path: Joint_1/bodyback/Root_9/Joint_1_5/Joint_2_7/Joint_3_6/Root_10/Joint_3_7
+        weight: 1
+      - path: Joint_1/bodyback/Root_9/Joint_1_5/Joint_2_7/Joint_3_6/Root_10/Joint_3_7/Joint_4_7
+        weight: 1
+      - path: Joint_1/znyple1
+        weight: 1
+      - path: Joint_1/znyple1/Joint
+        weight: 1
+      - path: Joint_1/znyple1/Joint/Joint_1_2
+        weight: 1
+      - path: Joint_1/znyple1/Joint/Joint_1_2/Joint_2
+        weight: 1
+      - path: Joint_1/znyple1/Joint/Joint_1_2/Joint_2/Joint_3
+        weight: 1
+      - path: Joint_1/znyple2
+        weight: 1
+      - path: Joint_1/znyple2/Joint_2_2
+        weight: 1
+      - path: Joint_1/znyple2/Joint_2_2/Joint_1_3
+        weight: 1
+      - path: Joint_1/znyple2/Joint_2_2/Joint_1_3/Joint_2_3
+        weight: 1
+      - path: Joint_1/znyple2/Joint_2_2/Joint_1_3/Joint_2_3/Joint_3_2
+        weight: 1
+      - path: znyple2_1
+        weight: 1
+      - path: znyple2_1/Skin
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

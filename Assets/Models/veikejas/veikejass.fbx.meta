@@ -1,0 +1,231 @@
+fileFormatVersion: 2
+guid: dc40c498e6462dd47ac5aeac70eba551
+timeCreated: 1445715398
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: Cube
+    100002: handfull
+    100004: handfullleft
+    100006: headas
+    100008: Joint
+    100010: Joint_1
+    100012: Joint_1_2
+    100014: Joint_1_3
+    100016: Joint_1_4
+    100018: Joint_2
+    100020: Joint_2_2
+    100022: Joint_2_3
+    100024: Joint_2_4
+    100026: Joint_2_5
+    100028: Joint_3
+    100030: Joint_3_2
+    100032: Joint_3_3
+    100034: Joint_3_4
+    100036: paltas
+    100038: rankakita
+    100040: rankakitaright
+    100042: shoe
+    100044: shoeleft
+    100046: skrybele
+    100048: //RootNode
+    100050: playeris
+    400000: Cube
+    400002: handfull
+    400004: handfullleft
+    400006: headas
+    400008: Joint
+    400010: Joint_1
+    400012: Joint_1_2
+    400014: Joint_1_3
+    400016: Joint_1_4
+    400018: Joint_2
+    400020: Joint_2_2
+    400022: Joint_2_3
+    400024: Joint_2_4
+    400026: Joint_2_5
+    400028: Joint_3
+    400030: Joint_3_2
+    400032: Joint_3_3
+    400034: Joint_3_4
+    400036: paltas
+    400038: rankakita
+    400040: rankakitaright
+    400042: shoe
+    400044: shoeleft
+    400046: skrybele
+    400048: //RootNode
+    400050: playeris
+    2300000: Cube
+    2300002: handfull
+    2300004: handfullleft
+    2300006: headas
+    2300008: paltas
+    2300010: rankakita
+    2300012: rankakitaright
+    2300014: shoe
+    2300016: shoeleft
+    2300018: skrybele
+    3300000: Cube
+    3300002: handfull
+    3300004: handfullleft
+    3300006: headas
+    3300008: paltas
+    3300010: rankakita
+    3300012: rankakitaright
+    3300014: shoe
+    3300016: shoeleft
+    3300018: skrybele
+    4300000: headas
+    4300002: paltas
+    4300004: skrybele
+    4300006: rankakita
+    4300008: handfull
+    4300010: rankakitaright
+    4300012: Cube
+    4300014: handfullleft
+    4300016: shoeleft
+    4300018: shoe
+    7400000: Running
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Running
+      takeName: C4D Animation Take
+      firstFrame: 0
+      lastFrame: 16
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Joint
+        weight: 1
+      - path: Joint/headas
+        weight: 1
+      - path: Joint/Joint_1
+        weight: 1
+      - path: Joint/Joint_1/Joint_2
+        weight: 1
+      - path: Joint/Joint_1/skrybele
+        weight: 1
+      - path: Joint/Joint_1_2
+        weight: 1
+      - path: Joint/Joint_1_2/Joint_2_2
+        weight: 1
+      - path: Joint/Joint_1_2/Joint_2_2/handfull
+        weight: 1
+      - path: Joint/Joint_1_2/Joint_2_2/Joint_3
+        weight: 1
+      - path: Joint/Joint_1_2/rankakita
+        weight: 1
+      - path: Joint/Joint_1_3
+        weight: 1
+      - path: Joint/Joint_1_3/Cube
+        weight: 1
+      - path: Joint/Joint_1_3/Joint_2_3
+        weight: 1
+      - path: Joint/Joint_1_3/Joint_2_3/handfullleft
+        weight: 1
+      - path: Joint/Joint_1_3/Joint_2_3/Joint_3_2
+        weight: 1
+      - path: Joint/Joint_1_3/rankakitaright
+        weight: 1
+      - path: Joint/Joint_1_4
+        weight: 1
+      - path: Joint/Joint_1_4/Joint_2_4
+        weight: 1
+      - path: Joint/Joint_1_4/Joint_2_4/Joint_3_3
+        weight: 1
+      - path: Joint/Joint_1_4/Joint_2_4/shoeleft
+        weight: 1
+      - path: Joint/Joint_1_4/Joint_2_5
+        weight: 1
+      - path: Joint/Joint_1_4/Joint_2_5/Joint_3_4
+        weight: 1
+      - path: Joint/Joint_1_4/Joint_2_5/shoe
+        weight: 1
+      - path: Joint/paltas
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 3
+    addColliders: 0
+    importBlendShapes: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 0
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 0
+    normalImportMode: 1
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
